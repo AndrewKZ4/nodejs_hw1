@@ -1,0 +1,28 @@
+{
+  "name": "nodejs_hw1",
+  "version": "1.0.0",
+  "description": "hw",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index",
+    "dev" : "nodemon index"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewKZ4/nodejs_hw1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "hw1"
+  ],
+  "author": "Andrey Kojuhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewKZ4/nodejs_hw1/issues"
+  },
+  "homepage": "https://github.com/AndrewKZ4/nodejs_hw1#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
